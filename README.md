@@ -1,4 +1,4 @@
-<div style="color:red"> 注释由AI生成 </div>
+# 以下所有出现的注释都由由AI生成
 # 图片选择器组件 | Image Selector Component
 
 ![Demo Screenshot](image.png) <!-- 建议替换为实际截图路径 -->
